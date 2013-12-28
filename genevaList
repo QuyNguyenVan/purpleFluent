@@ -1,0 +1,72 @@
+	   var transport = [
+	       
+	        ['Gares & aéroport','Gare CFF Genève Cornavin', 46.21006399, 6.142215729, 1, '', ''],
+	        ['Gares & aéroport','Gare routière de Genève', 46.20827836, 6.14662528, 2, '', ''],
+	        ['Gares & aéroport','Genève Aéroport et Gare CFF', 46.23254829, 6.111960411, 3, '', '']
+        
+        ];
+         
+        var pointsGTC = [
+        	
+        	['Points information','Mont-Blanc', 46.20833033, 6.14543438, 1, '', ''],
+        	['Points information','Aéroport', 46.23254829, 6.111960411, 1, '', '']
+     
+        ];
+        
+         var pointsVenues = [
+         
+        	['Lieux événementiel','Palexpo', 46.23437394, 6.118955612, 1, '', ''],
+                ['Lieux événementiel','Stade de Genève', 46.177832, 6.127442, 1, '', ''],
+        	['Lieux événementiel','Arena', 46.23357244, 6.112303734, 1, '', ''],
+        	['Lieux événementiel','CICG', 46.21995257, 6.138374805, 1, '', '']
+       
+        ];
+        
+        var pointsMustSee = [
+        	
+        	['Les incontournables', 'Le Jet d’eau', 46.20736882, 6.155819893, 5, '', ''],
+        	['Les incontournables', 'Bains des Pâquis', 46.21036839, 6.154232025, 5, '', ''],
+        	['Les incontournables', 'Cathédrale Saint Pierre', 46.20126893, 6.147939563, 5, '', ''],
+        	['Les incontournables', 'Place de Bourg de Four', 46.20029244, 6.149135828, 5, '', ''],
+        	['Les incontournables', 'Hôtel de ville', 46.20100717, 6.146896183, 5, '', ''],
+        	['Les incontournables', 'Le Mur des Réformateurs', 46.19949786, 6.144254208, 5, '', ''],
+        	['Les incontournables', 'Le Palais des Nations', 46.22406116, 6.139613986, 5, '', ''],
+        	['Les incontournables', 'Place des Nations', 46.22279558, 6.138852239, 5, '', ''],
+        	['Les incontournables', 'Carouge - Place du marché', 46.18406456, 6.140370369, 5, '', ''],
+        	['Les incontournables', 'L’Horloge fleurie ', 46.20418716, 6.15095973, 5, '', ''],
+        	['Les incontournables', 'Rue du Rhône', 46.2036, 6.15003, 5, '', ''],
+        	['Les incontournables', 'Départ Téléphérique Mont Salève', 46.16284597, 6.189143658, 5, '', ''],
+        	['Les incontournables', 'Arrivée Téléphérique Mont Salève', 46.15421057, 6.19354248, 5, '', ''],
+        	['Les incontournables', 'Le quartier des Bains', 46.19906716, 6.137795448, 5, '', '']
+
+        ];
+        
+        var pointsParcs = [
+        
+        	['Parcs de Genève', 'Parc de la Grange', 46.20592837, 6.168866158, 5, '', ''],
+        	['Parcs de Genève', 'Parc des Eaux-Vives', 46.20834889, 6.168501377, 5, '', ''],
+        	['Parcs de Genève', 'Jardin anglais', 46.20407949, 6.151914597, 5, '', ''],
+        	['Parcs de Genève', 'Mon Repos', 46.21849018, 6.150734425, 5, '', ''],
+        	['Parcs de Genève', 'La Perle du lac', 46.22135554, 6.151206493, 5, '', ''],
+        	['Parcs de Genève', 'Parc des Bastions', 46.20025531, 6.144125462, 5, '', '']
+        	
+        ];
+        
+       
+        
+        var pointsCruise = [
+        
+        	
+        	['Débarcadères Mouettes', 'Pâquis', 46.20923243, 6.151270866, 5, '', '' ],
+        	['Débarcadères Mouettes', 'Molard', 46.20462896, 6.148679852, 5, '', '' ],
+        	['Débarcadères Mouettes', 'Quai Gustave-Ador', 46.20460669, 6.153915524, 5, '', '' ],
+        	['Débarcadères Mouettes', 'Genève-Plage', 46.21118508, 6.169660091, 5, '', '' ],
+        	['Débarcadères Mouettes', 'De Châteaubriand', 46.21942367, 6.153405905, 5, '', '' ],
+        	
+        	['Débarcadères', 'Genève Jardin anglais', 46.20531951, 6.155101061, 5, '<a href="http://www.cgn.ch/" target="_blank">http://www.cgn.ch/</a> <br />', ''],
+        	['Débarcadères', 'Genève Paquis', 46.20864588, 6.151126027, 5, '<a href="http://www.cgn.ch/" target="_blank">http://www.cgn.ch/</a> <br />', ''],
+        	['Débarcadères', 'Genève Mont-Blanc', 46.20725744, 6.148695946, 5, '<a href="http://www.cgn.ch/" target="_blank">http://www.cgn.ch/</a> <br />', ''],
+        	['Débarcadères', 'Genève Eaux-vives', 46.20980413, 6.167020798, 5, '<a href="http://www.cgn.ch/" target="_blank">http://www.cgn.ch/</a> <br />', ''],
+        	['Débarcadères', 'Genève Rhône', 46.20478861, 6.141690016, 5, '<a href="http://www.cgn.ch/" target="_blank">http://www.cgn.ch/</a> <br />', '']
+        	
+        ];

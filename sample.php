@@ -4,7 +4,7 @@
 	header('Content-type: application/json');
 	echo (
 			Purple::InitializeEnumerable(/*['1','2','3']*/)
-			->FromTextFile("/Users/eka808/Desktop/genevaList")
+			->FromTextFile("genevaList")
 			->Each(function($o) { return trim($o); })
 			->Where(function($o) { return $o != ''; })
 			->Where(function($o) { return preg_match("#var (.+) = \[#", $o) == false; })
